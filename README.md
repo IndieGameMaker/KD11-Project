@@ -7,7 +7,7 @@
 |Mapper|VR Chat Map 제작|VR|김상연, 김상윤, 김태완|
 |Grovekeeper|VR 펫 키우기|VR|고민혁, 이시훈, 정수지|
 |Future Frame|muu|VR|이재승, 유예찬, 신현지, 박동현|
-|FP|다이어트 좀비|VR|이채환, 이찬우|
+|Blood Moon|Walking Zombie|VR|이채환, 이찬우, |
 
 ## 기획 산출물
 
