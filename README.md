@@ -46,7 +46,7 @@
 
 ### Git Flow
 
-![](git_flow.jpg)
+![](git-flow.png)
 
 - 작업 시작하기 전 깃 작업
 
